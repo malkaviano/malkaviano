@@ -1,4 +1,4 @@
-Typescript / .Net programmer with experience in another C like languages.
+Typescript / .Net programmer with experience in other C like languages.
 
 <!---
 malkaviano/malkaviano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
